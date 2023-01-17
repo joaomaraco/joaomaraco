@@ -1,4 +1,9 @@
-### Hi there 👋
+# ⚡João Miguel Maraco⚡
+### Software Developer
+
+<picture>
+  <img alt="react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/80px-React-icon.svg.png" >
+</picture>
 
 <!--
 **joaomaraco/joaomaraco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
